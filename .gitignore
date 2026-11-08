@@ -1,0 +1,8 @@
+*
+!.gitignore
+!.nojekyll
+!index.html
+!privacy.html
+!assets/
+assets/*
+!assets/logo.png
